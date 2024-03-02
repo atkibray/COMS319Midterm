@@ -2,63 +2,63 @@
    "mostpopular": [
       {
          "location": "Dubai, United Arab Emirates",
-         "cost": "$1000",
-         "duration": "1 week",
+         "cost": "$1,500",
+         "duration": "3 days",
          "url": "https://www.pexels.com/photo/low-angle-shot-of-a-tall-building-4118019/"
       },
       {
          "location": "Bali, Indonesia",
-         "cost": "$1000",
-         "duration": "1 week",
+         "cost": "$3,000",
+         "duration": "14 days",
          "url": "https://www.pexels.com/photo/canoe-on-body-of-water-with-pagoda-background-2166559/"
       },
       {
          "location": "Hanoi, Vietnam",
-         "cost": "$1000",
-         "duration": "1 week",
+         "cost": "$700",
+         "duration": "7 days",
          "url": "https://www.pexels.com/photo/person-in-scooter-in-front-of-vegetables-2977435/"
       }
    ],
    "otherpopular": [
       {
          "location": "Costa Rica",
-         "cost": "$1000",
-         "duration": "1 week",
+         "cost": "$900",
+         "duration": "5 days",
          "url": "https://www.pexels.com/photo/person-in-scooter-in-front-of-vegetables-2977435/"
       },
       {
          "location": "Portugal",
-         "cost": "$1000",
-         "duration": "1 week",
+         "cost": "$1,050",
+         "duration": "7 days",
          "url": "https://www.pexels.com/photo/bird-s-eye-view-photography-of-cove-1368502/"
       },
       {
          "location": "Japan",
-         "cost": "$1000",
-         "duration": "1 week",
+         "cost": "$1,000",
+         "duration": "4 days",
          "url": "https://www.pexels.com/photo/people-walking-on-street-near-buildings-2339009/"
       }
    ],
    "deals": [
       {
          "location": "Toronto, Canada",
-         "costold": "$1000",
-         "costnew": "800",
-         "duration": "1 week",
+         "costold": "$1,890",
+         "costnew": "$1,400",
+         "duration": "9 days",
          "url": "https://www.pexels.com/photo/people-gathered-in-front-of-toronto-freestanding-signage-1750754/"
       },
       {
          "location": "Durban, South Africa",
-         "costold": "$1000",
-         "costnew": "800",
-         "duration": "1 week",
+         "costold": "$720",
+         "costnew": "$500",
+         "duration": "12 days",
          "url": "https://www.pexels.com/photo/cityscape-3814243/"
       },
       {
          "location": "Paris, France",
-         "costold": "$1000",
-         "costnew": "800",
-         "duration": "1 week",
+         "costold": "$2,880",
+         "costnew": "$2,300",
+         "duration": "7 days",
          "url": "https://www.pexels.com/photo/low-angle-photo-of-eiffel-tower-1530259/"
       }
    ]
