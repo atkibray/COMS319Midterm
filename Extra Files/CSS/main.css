@@ -96,7 +96,7 @@ body {
 
 .profile {
   width: 20vw;
-  height: 50vh;
+  height: 41vh;
   display: flex;
   flex-direction: column;
   border: 3px solid #000000;
@@ -116,4 +116,5 @@ footer {
   color: #fff;
   font-size: 15px;
   height: 10vh;
+  margin-bottom: 1vh;
 }
