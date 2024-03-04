@@ -4,6 +4,8 @@ fetch("./data.json")
 
 function loadData(myData) {
   var popularContainer = document.getElementById("popular-location");
+  var otherContainer = document.getElementById("other-locations");
+  var dealsContainer = document.getElementById("deals");
   console.log(myData);
 
   // Popular Container
@@ -31,6 +33,50 @@ function loadData(myData) {
   }
 
   // Other Popular Container
+  for (var i = 0; i < myData.otherpopular.length; i++) {
+    console.log(myData.i);
+    let location = myData.otherpopular[i].location;
+    let cost = myData.otherpopular[i].cost;
+    let duration = myData.otherpopular[i].duration;
+    let url = myData.otherpopular[i].url;
+
+    let addCardOther = document.createElement("div");
+
+    addCardOther.innerHTML = `
+        <div id=card class="card shadow-sm">
+            <img src=${url} class="card-img-top" alt="picture"></img>
+            <div class="card-body">
+                <p class="card-text"><strong>${location}</strong>, <br>${cost} <br> ${duration}</p>
+                <div class="d-flex justify-content-between align-items-center">
+                </div>
+            </div>
+        </div>
+        `;
+
+    otherContainer.appendChild(addCardOther);
+  }
 
   // Deals Container
+  for (var i = 0; i < myData.deals.length; i++) {
+    console.log(myData.i);
+    let location = myData.deals[i].location;
+    let cost = myData.deals[i].cost;
+    let duration = myData.deals[i].duration;
+    let url = myData.deals[i].url;
+
+    let addCardDeals = document.createElement("div");
+
+    addCardDeals.innerHTML = `
+          <div id=card class="card shadow-sm">
+              <img src=${url} class="card-img-top" alt="picture"></img>
+              <div class="card-body">
+                  <p class="card-text"><strong>${location}</strong>, <br>${cost} <br> ${duration}</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                  </div>
+              </div>
+          </div>
+          `;
+
+    dealsContainer.appendChild(addCardDeals);
+  }
 }
