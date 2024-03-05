@@ -18,9 +18,11 @@ function loadData(myData) {
 
     let addCardPopular = document.createElement("div");
 
+    addCardPopular.classList.add("col");
+
     addCardPopular.innerHTML = `
-        <div id=card class="card shadow-sm">
-            <img src=${url} class="card-img-top" alt="picture" width="20"></img>
+        <div id=card class="card shadow-sm" style="max-width:20%">
+            <img src=${url} class="card-img-top" alt="picture"></img>
             <div class="card-body">
                 <p class="card-text"><strong>${location}</strong> <br>${cost} <br> ${duration}</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -60,7 +62,8 @@ function loadData(myData) {
   for (var i = 0; i < myData.deals.length; i++) {
     console.log(myData.i);
     let location = myData.deals[i].location;
-    let cost = myData.deals[i].cost;
+    let costold = myData.deals[i].costold;
+    let costnew = myData.deals[i].costnew;
     let duration = myData.deals[i].duration;
     let url = myData.deals[i].url;
 
@@ -70,7 +73,7 @@ function loadData(myData) {
           <div id=card class="card shadow-sm">
               <img src=${url} class="card-img-top" alt="picture"></img>
               <div class="card-body">
-                  <p class="card-text"><strong>${location}</strong> <br>${cost} <br> ${duration}</p>
+                  <p class="card-text"><strong>${location}</strong> <br><strike>${costold}</strike> > ${costnew} <br> ${duration}</p>
                   <div class="d-flex justify-content-between align-items-center">
                   </div>
               </div>
