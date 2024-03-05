@@ -22,7 +22,7 @@ function loadData(myData) {
         <div id=card class="card shadow-sm">
             <img src=${url} class="card-img-top" alt="picture" width="20"></img>
             <div class="card-body">
-                <p class="card-text"><strong>${location}</strong>, <br>${cost} <br> ${duration}</p>
+                <p class="card-text"><strong>${location}</strong> <br>${cost} <br> ${duration}</p>
                 <div class="d-flex justify-content-between align-items-center">
                 </div>
             </div>
@@ -46,7 +46,7 @@ function loadData(myData) {
         <div id=card class="card shadow-sm">
             <img src=${url} class="card-img-top" alt="picture"></img>
             <div class="card-body">
-                <p class="card-text"><strong>${location}</strong>, <br>${cost} <br> ${duration}</p>
+                <p class="card-text"><strong>${location}</strong> <br>${cost} <br> ${duration}</p>
                 <div class="d-flex justify-content-between align-items-center">
                 </div>
             </div>
@@ -70,7 +70,7 @@ function loadData(myData) {
           <div id=card class="card shadow-sm">
               <img src=${url} class="card-img-top" alt="picture"></img>
               <div class="card-body">
-                  <p class="card-text"><strong>${location}</strong>, <br>${cost} <br> ${duration}</p>
+                  <p class="card-text"><strong>${location}</strong> <br>${cost} <br> ${duration}</p>
                   <div class="d-flex justify-content-between align-items-center">
                   </div>
               </div>
