@@ -1,0 +1,32 @@
+{
+  "USA": [
+    {
+      "general info": {
+        "currency": "Dollars",
+        "language": "English",
+        "cashIsKing": true
+      },
+      "itinerary": {
+        "location": "New York",
+        "url": "../myotherimages/NewYork.jpg",
+        "days": 3,
+        "toSee": [
+          "Empire State Building",
+          "Statue of Liberty",
+          "Rockerfeller Center",
+          "Central Park",
+          "MoMa",
+          "Times Square",
+          "Brooklyn Bridge"
+        ],
+        "toEat": [
+          "7th street burger",
+          "Los Tacos",
+          "Prince St. Pizza",
+          "Ruby's",
+          "The Osprey"
+        ]
+      }
+    }
+  ]
+}
