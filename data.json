@@ -4,19 +4,19 @@
       "location": "Dubai, United Arab Emirates",
       "cost": "$1,500",
       "duration": "3 days",
-      "url": "./Images/Dubai.jpg"
+      "url": "./myotherimages/Dubai.jpg"
     },
     {
       "location": "Bali, Indonesia",
       "cost": "$3,000",
       "duration": "14 days",
-      "url": "./Images/Bali.jpg"
+      "url": "./myotherimages/Bali.jpg"
     },
     {
       "location": "Hanoi, Vietnam",
       "cost": "$700",
       "duration": "7 days",
-      "url": "./Images/Vietnam.jpg"
+      "url": "./myotherimages/Vietnam.jpg"
     }
   ],
   "otherpopular": [
@@ -24,19 +24,19 @@
       "location": "Costa Rica",
       "cost": "$900",
       "duration": "5 days",
-      "url": "https://www.pexels.com/photo/person-in-scooter-in-front-of-vegetables-2977435/"
+      "url": "./myotherimages/Costa-Rica.jpg"
     },
     {
       "location": "Portugal",
       "cost": "$1,050",
       "duration": "7 days",
-      "url": "https://www.pexels.com/photo/bird-s-eye-view-photography-of-cove-1368502/"
+      "url": "./myotherimages/Portugal.jpg"
     },
     {
       "location": "Japan",
       "cost": "$1,000",
       "duration": "4 days",
-      "url": "https://www.pexels.com/photo/people-walking-on-street-near-buildings-2339009/"
+      "url": "./myotherimages/Japan.jpg"
     }
   ],
   "deals": [
@@ -45,21 +45,21 @@
       "costold": "$1,890",
       "costnew": "$1,400",
       "duration": "9 days",
-      "url": "https://www.pexels.com/photo/people-gathered-in-front-of-toronto-freestanding-signage-1750754/"
+      "url": "./myotherimages/Toronto.jpg"
     },
     {
       "location": "Durban, South Africa",
       "costold": "$720",
       "costnew": "$500",
       "duration": "12 days",
-      "url": "https://www.pexels.com/photo/cityscape-3814243/"
+      "url": "./myotherimages/Durban.jpg"
     },
     {
       "location": "Paris, France",
       "costold": "$2,880",
       "costnew": "$2,300",
       "duration": "7 days",
-      "url": "https://www.pexels.com/photo/low-angle-photo-of-eiffel-tower-1530259/"
+      "url": "./myotherimages/Paris.jpg"
     }
   ]
 }
