@@ -21,7 +21,7 @@ function loadData(myData) {
     addCardPopular.classList.add("col");
 
     addCardPopular.innerHTML = `
-        <div id=card class="card shadow-sm" style="max-width:20%">
+        <div id=card class="card shadow-sm">
             <img src=${url} class="card-img-top" alt="picture"></img>
             <div class="card-body">
                 <p class="card-text"><strong>${location}</strong> <br>${cost} <br> ${duration}</p>
