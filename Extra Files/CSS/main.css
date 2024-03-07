@@ -49,8 +49,9 @@ body {
 #deals {
   padding: 20px;
   text-align: center;
-  width: 30%;
+  width: 32%;
   float: right;
+  border-left: 2px solid black;
 }
 
 #popular-location {
@@ -59,6 +60,12 @@ body {
   margin: 20px 0;
   width: 70%;
   float: left;
+}
+
+#itinerary {
+  background: #fff;
+  padding: 20px;
+  margin: 20px 0;
 }
 
 #other-locations {
@@ -76,7 +83,7 @@ body {
   /* #7fa280  #bf5f50 #a28980 */
   padding: 20px;
   margin: 0px;
-  width: 70%;
+  width: 68%;
   float: left;
 }
 

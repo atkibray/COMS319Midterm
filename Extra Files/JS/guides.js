@@ -17,18 +17,27 @@ function loadData(myData) {
 
     let addCardItinerary = document.createElement("div");
 
-    addCardItinerary.innerHTML = `
-        <div id=card class="card shadow-sm">
-            <div class="card-body">
-                <img src=${url} class="card-img-top" alt="picture" width="20"></img>
-                <h3><strong>${location}</strong> </h3>
-                <p class="card-text"><br> ${days} days <br><strong>What to do:</strong> ${toSee} <br><strong>Where to eat:</strong> ${toEat}</p>
-                <div class="d-flex justify-content-between align-items-center">
-                </div>
-            </div>
-        </div>
-        `;
-    itineraryContainer.appendChild(addCardItinerary);
+        addCardItinerary.innerHTML = `
+        <div class="col" style="width:18rem">
+          <img src=${url} class="card-img-top" alt="picture"></img>
+          <h3 style="text-align:center;margin-top:5px"><strong>${location}</strong></h3>
+          <p><strong>What to see:</strong><ul>`;
+
+          for (var i = 0; i < toSee.length; i++) {
+           let item = toSee[i];
+           addCardItinerary.innerHTML += `<li>${item}</li>`;
+          }
+
+          addCardItinerary.innerHTML += `</ul><strong>Where to eat:</strong><ul>`;
+
+          for (var i = 0; i < toEat.length; i++) {
+           let item = toEat[i];
+           addCardItinerary.innerHTML += `<li>${item}</li>`;
+          }
+
+          addCardItinerary.innerHTML += `</p></div>`;
+
+        itineraryContainer.appendChild(addCardItinerary);
   }
 }
 
