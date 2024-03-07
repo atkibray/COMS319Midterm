@@ -101,6 +101,7 @@ footer {
   width: 30vw;
 }
 
-.card-body {
-  height: 15vh;
+.itinerarysection {
+  width: 50%;
+  float: left;
 }
