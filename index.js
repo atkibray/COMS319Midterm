@@ -21,15 +21,14 @@ function loadData(myData) {
     addCardPopular.classList.add("col");
 
     addCardPopular.innerHTML = `
-        <div id=card class="card shadow-sm">
-            <img src=${url} class="card-img-top" alt="picture"></img>
-            <div class="card-body">
-                <p class="card-text"><strong>${location}</strong> <br>${cost} <br> ${duration}</p>
-                <div class="d-flex justify-content-between align-items-center">
-                </div>
-            </div>
+      <div class="col">
+        <div class="card shadow-sm" style="width:18rem">
+          <img src=${url} class="card-img-top" alt="picture"></img>
+          <div class="card-body">
+            <p class="card-text"><strong>${location}</strong> <br>${cost} <br> ${duration}</p>
+          </div>
         </div>
-        `;
+      </div>`;
 
     popularContainer.appendChild(addCardPopular);
   }
@@ -44,16 +43,17 @@ function loadData(myData) {
 
     let addCardOther = document.createElement("div");
 
+    addCardOther.classList.add("col");
+
     addCardOther.innerHTML = `
-        <div id=card class="card shadow-sm">
-            <img src=${url} class="card-img-top" alt="picture"></img>
-            <div class="card-body">
-                <p class="card-text"><strong>${location}</strong> <br>${cost} <br> ${duration}</p>
-                <div class="d-flex justify-content-between align-items-center">
-                </div>
-            </div>
+      <div class="col">
+        <div class="card shadow-sm" style="width:18rem">
+          <img src=${url} class="card-img-top" alt="picture"></img>
+          <div class="card-body">
+            <p class="card-text"><strong>${location}</strong> <br>${cost} <br> ${duration}</p>
+          </div>
         </div>
-        `;
+      </div>`;
 
     otherContainer.appendChild(addCardOther);
   }
