@@ -1,0 +1,100 @@
+{
+  "alltrips": [
+    {
+      "location": "Dubai, United Arab Emirates",
+      "cost": "$1,500",
+      "duration": "3 days",
+      "url": "../myotherimages/Dubai.jpg"
+    },
+    {
+      "location": "Bali, Indonesia",
+      "cost": "$3,000",
+      "duration": "14 days",
+      "url": "../myotherimages/Bali.jpg"
+    },
+    {
+      "location": "Hanoi, Vietnam",
+      "cost": "$700",
+      "duration": "7 days",
+      "url": "../myotherimages/Vietnam.jpg"
+    },
+    {
+      "location": "Costa Rica",
+      "cost": "$900",
+      "duration": "5 days",
+      "url": "../myotherimages/Costa-Rica.jpg"
+    },
+    {
+      "location": "Portugal",
+      "cost": "$1,050",
+      "duration": "7 days",
+      "url": "../myotherimages/Portugal.jpg"
+    },
+    {
+      "location": "Japan",
+      "cost": "$1,000",
+      "duration": "4 days",
+      "url": "../myotherimages/Japan.jpg"
+    },
+    {
+      "location": "Toronto, Canada",
+      "cost": "$1,400",
+      "duration": "9 days",
+      "url": "../myotherimages/Toronto.jpg"
+    },
+    {
+      "location": "Durban, South Africa",
+      "cost": "$500",
+      "duration": "12 days",
+      "url": "../myotherimages/Durban.jpg"
+    },
+    {
+      "location": "Paris, France",
+      "cost": "$2,300",
+      "duration": "7 days",
+      "url": "../myotherimages/Paris.jpg"
+    },
+    {
+      "location": "",
+      "cost": "",
+      "duration": "",
+      "url": ""
+    },
+    {
+      "location": "",
+      "cost": "",
+      "duration": "",
+      "url": ""
+    },
+    {
+      "location": "",
+      "cost": "",
+      "duration": "",
+      "url": ""
+    },
+    {
+      "location": "",
+      "cost": "",
+      "duration": "",
+      "url": ""
+    },
+    {
+      "location": "",
+      "cost": "",
+      "duration": "",
+      "url": ""
+    },
+    {
+      "location": "",
+      "cost": "",
+      "duration": "",
+      "url": ""
+    },
+    {
+      "location": "",
+      "cost": "",
+      "duration": "",
+      "url": ""
+    }
+  ]
+}
