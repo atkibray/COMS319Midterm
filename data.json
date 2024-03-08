@@ -1,11 +1,12 @@
 {
   "mostpopular": [
     {
-      "location": "Dubai, United Arab Emirates",
-      "cost": "$1,500",
-      "duration": "3 days",
-      "url": "./myotherimages/Dubai.jpg"
+      "location": "Japan",
+      "cost": "$1,000",
+      "duration": "4 days",
+      "url": "./myotherimages/Japan2.jpg"
     },
+
     {
       "location": "Bali, Indonesia",
       "cost": "$3,000",
@@ -13,10 +14,10 @@
       "url": "./myotherimages/Bali.jpg"
     },
     {
-      "location": "Hanoi, Vietnam",
-      "cost": "$700",
+      "location": "Paris, France",
+      "cost": "$2,880",
       "duration": "7 days",
-      "url": "./myotherimages/Vietnam.jpg"
+      "url": "./myotherimages/Paris.jpg"
     }
   ],
   "otherpopular": [
@@ -33,10 +34,10 @@
       "url": "./myotherimages/Portugal.jpg"
     },
     {
-      "location": "Japan",
-      "cost": "$1,000",
-      "duration": "4 days",
-      "url": "./myotherimages/Japan.jpg"
+      "location": "Dubai, United Arab Emirates",
+      "cost": "$1,500",
+      "duration": "3 days",
+      "url": "./myotherimages/Dubai.jpg"
     }
   ],
   "deals": [
@@ -55,11 +56,11 @@
       "url": "./myotherimages/Durban.jpg"
     },
     {
-      "location": "Paris, France",
-      "costold": "$2,880",
-      "costnew": "$2,300",
+      "location": "Hanoi, Vietnam",
+      "costold": "$900",
+      "costnew": "$700",
       "duration": "7 days",
-      "url": "./myotherimages/Paris.jpg"
+      "url": "./myotherimages/Vietnam.jpg"
     }
   ]
 }

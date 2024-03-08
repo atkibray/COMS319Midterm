@@ -48,7 +48,7 @@ function loadData(myData) {
     addCardOther.innerHTML = `
       <div class="col">
         <div class="card shadow-sm" style="width:18rem">
-          <img src=${url} class="card-img-top" alt="picture"></img>
+          <img src=${url} class="card-img-top" alt="picture"  height="381"></img>
           <div class="card-body">
             <p class="card-text"><strong>${location}</strong> <br>${cost} <br> ${duration}</p>
           </div>

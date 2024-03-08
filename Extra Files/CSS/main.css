@@ -105,3 +105,17 @@ footer {
   width: 50%;
   float: left;
 }
+
+ul {
+  padding-left: 0rem;
+  list-style-type: none;
+}
+
+ul li {
+  list-style-type: none;
+  padding-left: 2rem;
+  background-image: url(checkbox.png);
+  background-position: 0 0;
+  background-size: 1.6rem 1.6rem;
+  background-repeat: no-repeat;
+}
