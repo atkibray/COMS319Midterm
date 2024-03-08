@@ -67,18 +67,11 @@ body {
 .profile-block {
   display: flex;
   flex-direction: row;
-  margin: 20px;
   align-items: center;
   justify-content: center;
 }
 
-.profile {
-  width: 20vw;
-  height: 41vh;
-  display: flex;
-  flex-direction: column;
-  border: 3px solid #000000;
-  border-radius: 10px;
+#profile {
   margin: 20px;
 }
 
