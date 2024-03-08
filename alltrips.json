@@ -55,46 +55,46 @@
       "url": "../myotherimages/Paris.jpg"
     },
     {
-      "location": "",
-      "cost": "",
-      "duration": "",
-      "url": ""
+      "location": "Stockholm, Sweden",
+      "cost": "$2,460",
+      "duration": "14 days",
+      "url": "../myotherimages/Stockholm2.jpg"
     },
     {
-      "location": "",
-      "cost": "",
-      "duration": "",
-      "url": ""
+      "location": "Melbourne, Australia",
+      "cost": "$1,240",
+      "duration": "7 days",
+      "url": "../myotherimages/Melbourne2.jpg"
     },
     {
-      "location": "",
-      "cost": "",
-      "duration": "",
-      "url": ""
+      "location": "Bergen, Norway",
+      "cost": "$605",
+      "duration": "5 days",
+      "url": "../myotherimages/Bergen.jpg"
     },
     {
-      "location": "",
-      "cost": "",
-      "duration": "",
-      "url": ""
+      "location": "Saint Petersburg, Russia",
+      "cost": "$1,050",
+      "duration": "14 days",
+      "url": "../myotherimages/SaintPetersburg.jpg"
     },
     {
-      "location": "",
-      "cost": "",
-      "duration": "",
-      "url": ""
+      "location": "Puerto Vallarta, Mexico",
+      "cost": "$3,365",
+      "duration": "24 days",
+      "url": "../myotherimages/PuertoVallarta.jpg"
     },
     {
-      "location": "",
-      "cost": "",
-      "duration": "",
-      "url": ""
+      "location": "Jeju Island, South Korea",
+      "cost": "$525",
+      "duration": "7 days",
+      "url": "../myotherimages/Jeju.jpg"
     },
     {
-      "location": "",
-      "cost": "",
-      "duration": "",
-      "url": ""
+      "location": "Helsinki, Finland",
+      "cost": "$2,120",
+      "duration": "14 days",
+      "url": "../myotherimages/Helsinki.jpg"
     }
   ]
 }

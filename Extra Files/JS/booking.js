@@ -16,9 +16,9 @@ function loadData(myData) {
     addCard.innerHTML = `
     <div class="col">
     <div class="card shadow-sm">
-    <img src=${url} class="card-img-top" alt="picture"></img>
+    <img src=${url} class="card-img-top" alt="picture" height="300px"></img>
     <div class="card-body">
-    <p class="card-text">Book trip to: <strong>${location}</strong> for ${duration} days for ${cost}</p>
+    <p class="card-text">Book trip to:<br><strong>${location}</strong><br>${duration}<br>${cost}</p>
     <div class="d-flex justify-content-between align-items-center">
     <div class="btn-group">
     <button onclick="showPrompt()" type="button" class="btn btn-sm btn-outline-secondary open-dialog">Book</button>
