@@ -4,20 +4,20 @@
       "location": "Japan",
       "cost": "$1,000",
       "duration": "4 days",
-      "url": "./myotherimages/Japan2.jpg"
+      "url": "./Images/Japan2.jpg"
     },
 
     {
       "location": "Bali, Indonesia",
       "cost": "$3,000",
       "duration": "14 days",
-      "url": "./myotherimages/Bali.jpg"
+      "url": "./Images/Bali.jpg"
     },
     {
       "location": "Paris, France",
       "cost": "$2,880",
       "duration": "7 days",
-      "url": "./myotherimages/Paris.jpg"
+      "url": "./Images/Paris.jpg"
     }
   ],
   "otherpopular": [
@@ -25,19 +25,19 @@
       "location": "Costa Rica",
       "cost": "$900",
       "duration": "5 days",
-      "url": "./myotherimages/Costa-Rica.jpg"
+      "url": "./Images/Costa-Rica.jpg"
     },
     {
       "location": "Portugal",
       "cost": "$1,050",
       "duration": "7 days",
-      "url": "./myotherimages/Portugal.jpg"
+      "url": "./Images/Portugal.jpg"
     },
     {
       "location": "Dubai, United Arab Emirates",
       "cost": "$1,500",
       "duration": "3 days",
-      "url": "./myotherimages/Dubai.jpg"
+      "url": "./Images/Dubai.jpg"
     }
   ],
   "deals": [
@@ -46,21 +46,21 @@
       "costold": "$1,890",
       "costnew": "$1,400",
       "duration": "9 days",
-      "url": "./myotherimages/Toronto.jpg"
+      "url": "./Images/Toronto.jpg"
     },
     {
       "location": "Durban, South Africa",
       "costold": "$720",
       "costnew": "$500",
       "duration": "12 days",
-      "url": "./myotherimages/Durban.jpg"
+      "url": "./Images/Durban.jpg"
     },
     {
       "location": "Hanoi, Vietnam",
       "costold": "$900",
       "costnew": "$700",
       "duration": "7 days",
-      "url": "./myotherimages/Vietnam.jpg"
+      "url": "./Images/Vietnam.jpg"
     }
   ]
 }

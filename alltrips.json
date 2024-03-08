@@ -4,97 +4,97 @@
       "location": "Dubai, United Arab Emirates",
       "cost": "$1,500",
       "duration": "3 days",
-      "url": "../myotherimages/Dubai.jpg"
+      "url": "../Images/Dubai.jpg"
     },
     {
       "location": "Bali, Indonesia",
       "cost": "$3,000",
       "duration": "14 days",
-      "url": "../myotherimages/Bali.jpg"
+      "url": "../Images/Bali.jpg"
     },
     {
       "location": "Hanoi, Vietnam",
       "cost": "$700",
       "duration": "7 days",
-      "url": "../myotherimages/Vietnam.jpg"
+      "url": "../Images/Vietnam.jpg"
     },
     {
       "location": "Costa Rica",
       "cost": "$900",
       "duration": "5 days",
-      "url": "../myotherimages/Costa-Rica.jpg"
+      "url": "../Images/Costa-Rica.jpg"
     },
     {
       "location": "Portugal",
       "cost": "$1,050",
       "duration": "7 days",
-      "url": "../myotherimages/Portugal.jpg"
+      "url": "../Images/Portugal.jpg"
     },
     {
       "location": "Japan",
       "cost": "$1,000",
       "duration": "4 days",
-      "url": "../myotherimages/Japan.jpg"
+      "url": "../Images/Japan.jpg"
     },
     {
       "location": "Toronto, Canada",
       "cost": "$1,400",
       "duration": "9 days",
-      "url": "../myotherimages/Toronto.jpg"
+      "url": "../Images/Toronto.jpg"
     },
     {
       "location": "Durban, South Africa",
       "cost": "$500",
       "duration": "12 days",
-      "url": "../myotherimages/Durban.jpg"
+      "url": "../Images/Durban.jpg"
     },
     {
       "location": "Paris, France",
       "cost": "$2,300",
       "duration": "7 days",
-      "url": "../myotherimages/Paris.jpg"
+      "url": "../Images/Paris.jpg"
     },
     {
       "location": "Stockholm, Sweden",
       "cost": "$2,460",
       "duration": "14 days",
-      "url": "../myotherimages/Stockholm2.jpg"
+      "url": "../Images/Stockholm2.jpg"
     },
     {
       "location": "Melbourne, Australia",
       "cost": "$1,240",
       "duration": "7 days",
-      "url": "../myotherimages/Melbourne2.jpg"
+      "url": "../Images/Melbourne2.jpg"
     },
     {
       "location": "Bergen, Norway",
       "cost": "$605",
       "duration": "5 days",
-      "url": "../myotherimages/Bergen.jpg"
+      "url": "../Images/Bergen.jpg"
     },
     {
       "location": "Saint Petersburg, Russia",
       "cost": "$1,050",
       "duration": "14 days",
-      "url": "../myotherimages/SaintPetersburg.jpg"
+      "url": "../Images/SaintPetersburg.jpg"
     },
     {
       "location": "Puerto Vallarta, Mexico",
       "cost": "$3,365",
       "duration": "24 days",
-      "url": "../myotherimages/PuertoVallarta.jpg"
+      "url": "../Images/PuertoVallarta.jpg"
     },
     {
       "location": "Jeju Island, South Korea",
       "cost": "$525",
       "duration": "7 days",
-      "url": "../myotherimages/Jeju.jpg"
+      "url": "../Images/Jeju.jpg"
     },
     {
       "location": "Helsinki, Finland",
       "cost": "$2,120",
       "duration": "14 days",
-      "url": "../myotherimages/Helsinki.jpg"
+      "url": "../Images/Helsinki.jpg"
     }
   ]
 }
